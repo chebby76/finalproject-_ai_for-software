@@ -16,15 +16,7 @@ Original file is located at
 #
 # 1. INSTALL REQUIRED PACKAGES (Run this cell first):
 !pip install streamlit scikit-learn tensorflow plotly seaborn pyngrok
-#
-# 2. ENABLE NGROK TUNNEL (For accessing Streamlit in Colab):
-!ngrok authtoken 30LTgcPAdrhSvqjAJStc5zvj6Pa_5qqb4wjCDUwWtLKgUU7WR  # Get free token from https://ngrok.com/
-#
-# 3. RUN THE APPLICATION:
-# Save this code to a file (e.g., health_app.py) and run:
-# !streamlit run health_app.py & npx localtunnel --port 8501
-#
-# OR use the run_streamlit_app() function at the bottom of this script
+
 
 import streamlit as st
 import numpy as np
