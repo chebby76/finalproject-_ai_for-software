@@ -1,0 +1,27 @@
+# Health Monitoring System - Streamlit App Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Streamlit Framework
+streamlit==1.28.1
+
+# Data Processing and Analysis
+pandas
+numpy
+
+# Machine Learning
+scikit-learn
+joblib
+
+# Visualization Libraries
+matplotlib
+seaborn
+plotly
+
+# Utilities
+python-dateutil
+
+# Optional: For advanced features (uncomment if needed)
+tensorflow
+ keras
+ torch
+ scipy
