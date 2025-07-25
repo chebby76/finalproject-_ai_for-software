@@ -14,8 +14,7 @@ Original file is located at
 # SETUP INSTRUCTIONS FOR GOOGLE COLAB:
 # ====================================
 #
-# 1. INSTALL REQUIRED PACKAGES (Run this cell first):
-!pip install streamlit scikit-learn tensorflow plotly seaborn 
+# 1. INSTALL REQUIRED PACKAGES (Run this cell first):!pip install streamlit scikit-learn tensorflow plotly seaborn 
 
 import streamlit as st
 import numpy as np
