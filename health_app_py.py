@@ -15,8 +15,7 @@ Original file is located at
 # ====================================
 #
 # 1. INSTALL REQUIRED PACKAGES (Run this cell first):
-!pip install streamlit scikit-learn tensorflow plotly seaborn pyngrok
-
+!pip install streamlit scikit-learn tensorflow plotly seaborn 
 
 import streamlit as st
 import numpy as np
