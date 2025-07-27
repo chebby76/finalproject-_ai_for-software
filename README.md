@@ -270,7 +270,6 @@ Created by Vivian chebii - AI Developer & Healthcare Technology Enthusiast
 ## 🎯 Quick Demo
 
 Want to see it in action? 
-   this is a link  to it https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/
 
 <br/>
 
@@ -285,12 +284,10 @@ Want to see it in action?
   
   <br/>
   
-  <a href="demo-url">
+  <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
     <img src="https://img.shields.io/badge/Try%20it%20live-6366f1?style=flat&logo=external-link&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/•-white?style=flat"/>
-  <a href="video-url">
-    <img src="https://img.shields.io/badge/Watch%20video-ef4444?style=flat&logo=play&logoColor=white"/>
+
   </a>
 </div>
 
