@@ -269,19 +269,16 @@ Created by Vivian chebii - AI Developer & Healthcare Technology Enthusiast
 
 ## 🎯 Quick Demo
 
-Want to see it in action? 
+Want to see it in action? " https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/"
+    
 
 <br/>
-
 <p align="center">
   <img src="https://img.shields.io/badge/✨-Demo-white?style=flat&labelColor=6366f1&color=white"/>
 </p>
-
 <div align="center">
   <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
-    <img src="demo.gif" width="70%" style="border-radius: 8px; margin: 20px 0;"/>
-  </a>
-  
+    
   
   <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
     <img src="https://img.shields.io/badge/Try%20it%20live-6366f1?style=flat&logo=external-link&logoColor=white"/>
