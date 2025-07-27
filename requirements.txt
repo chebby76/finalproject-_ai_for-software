@@ -4,8 +4,3 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-python-dateutil
-tensorflow
- keras
- torch
- scipy
