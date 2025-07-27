@@ -269,15 +269,32 @@ Created by Vivian chebii - AI Developer & Healthcare Technology Enthusiast
 
 ## 🎯 Quick Demo
 
-Want to see it in action? Here's what you'll experience:
+Want to see it in action? 
+   this is a link  to it https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/
 
-1. **Launch the app** and see your health dashboard
-2. **Generate sample data** for different time periods
-3. **Explore interactive charts** and health trends
-4. **Receive AI insights** about your health patterns
-5. **Detect anomalies** in your health data
-6. **Export your data** for further analysis
+<br/>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/✨-Demo-white?style=flat&labelColor=6366f1&color=white"/>
+</p>
+
+<div align="center">
+  <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
+    <img src="demo.gif" width="70%" style="border-radius: 8px; margin: 20px 0;"/>
+  </a>
+  
+  <br/>
+  
+  <a href="demo-url">
+    <img src="https://img.shields.io/badge/Try%20it%20live-6366f1?style=flat&logo=external-link&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/•-white?style=flat"/>
+  <a href="video-url">
+    <img src="https://img.shields.io/badge/Watch%20video-ef4444?style=flat&logo=play&logoColor=white"/>
+  </a>
+</div>
+
+<br/>
 **Start monitoring your health with AI today!** 🚀
 
 ---
