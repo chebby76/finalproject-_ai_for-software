@@ -282,7 +282,6 @@ Want to see it in action?
     <img src="demo.gif" width="70%" style="border-radius: 8px; margin: 20px 0;"/>
   </a>
   
-  <br/>
   
   <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
     <img src="https://img.shields.io/badge/Try%20it%20live-6366f1?style=flat&logo=external-link&logoColor=white"/>
