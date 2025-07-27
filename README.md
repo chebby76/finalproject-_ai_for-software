@@ -272,22 +272,24 @@ Created by Vivian chebii - AI Developer & Healthcare Technology Enthusiast
 Want to see it in action? " https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/"
     
 
-<br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/✨-Demo-white?style=flat&labelColor=6366f1&color=white"/>
-</p>
 <div align="center">
-  <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
-    
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=🚀%20LIVE%20DEMO&fontSize=50&fontAlignY=35&desc=Experience%20the%20magic%20in%20action&descAlignY=55&descAlign=50"/>
   
-  <a href=" https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
-    <img src="https://img.shields.io/badge/Try%20it%20live-6366f1?style=flat&logo=external-link&logoColor=white"/>
+  <br/>
+  
+  <a href="https://finalproject-aifor-software-eeaqxbtppsk6zuzjbgxaiz.streamlit.app/">
+    <img src="https://img.shields.io/badge/🎮%20Try%20Live%20Demo-FF6B6B?style=for-the-badge&logoColor=white&labelColor=4ECDC4"/>
   </a>
-
-  </a>
+  
+  <br/><br/>
+  
+  <!-- Your demo GIF here with fancy styling -->
+  <img src="demo.gif" width="80%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+  
+  <br/>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
-
-<br/>
 **Start monitoring your health with AI today!** 🚀
 
 ---
